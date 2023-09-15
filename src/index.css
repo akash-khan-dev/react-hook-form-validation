@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.form-container {
+  width: 400px;
+  height: 450px;
+  background-color: aliceblue;
+  text-align: center;
+  padding-top: 30px;
+}
+.button {
+  border: none;
+  padding: 10px 20px 10px 20px;
+  background-color: rgb(129, 103, 68);
+  cursor: pointer;
+  margin-top: 10px;
+  color: aliceblue;
+  border-radius: 5px;
+}
